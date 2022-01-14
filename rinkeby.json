@@ -1183,6 +1183,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x50e0B904970D97790dA6FEaDa8A818Cd4C413Abc",
+            "name": "Bacalata",
+            "description": "Bacalata",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/kamikazebr/dao-list/master/assets/Bacalata/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/kamikazebr/dao-list/master/assets/Bacalata/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/kamikazebr/dao-list/master/assets/Bacalata/token_logo.png"
         }
     ]
 }
